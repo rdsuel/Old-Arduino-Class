@@ -1,6 +1,9 @@
 # Arduino-Class
 This repo contains the class materials for the "Arduino Basics" class that I teach at General Electric. It will cover multiple examples intended to teach basic concepts needed to program for Arduinos. All examples are based on the Arduino Uno Rev 3. You can get a "clone" Uno R3 on Amazon for less than $15, here is an example: http://amzn.com/B00SZSFFY0.
 
+## Arduino Uno Development Tools
+https://www.arduino.cc/en/Main/Software
+
 ## Arduino Uno Specs
 https://www.arduino.cc/en/Main/arduinoBoardUno
 
